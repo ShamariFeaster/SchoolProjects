@@ -1,0 +1,2 @@
+The Big-Oh of makeEmpty() is O(n) where n is the number of
+nodes in the tree.
