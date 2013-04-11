@@ -1,26 +1,3 @@
-Name: Shamari Feaster
-COP4020
-Project 2
-
-How to compile: 
-Run the 'make' command.
-
-Notes:
-my yacc file is called 'example0.y' and my scanner file is called 'token.l'
-
-Known Issues:
-My grammar does not correctly handle strung togther expressions like:
-
-a + b + b 
-
-without parenthesis; however with parenthesis my parser will perform
-correctly and produce a semantically correct translation and output
-
-Addtional Info:
-I have included a shell script I used in testing called 'cmp.sh' which 
-accepts 1 command line arg which is the name of a calc file. Once run
-it recompiles the parser, prints the output of the parser given the 
-calc program, prints the c++ translation, and prints the original
-calc program.
-
+This repo contains all my relevant school projects from my time as a 
+stsudent in FSU's computer science program.
 

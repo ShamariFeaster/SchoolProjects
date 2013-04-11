@@ -1,0 +1,6 @@
+Time Complexity: O(n)
+
+My clear() simply wraps vector<T>::clear(), which calls the destructors of all the elements
+in the vector. The c++ manual states the complexity of vector<T>::clear() as:
+
+    Linear on size (destructors).
