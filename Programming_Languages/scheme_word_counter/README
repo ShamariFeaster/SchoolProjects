@@ -1,0 +1,15 @@
+This program is written in scheme, a functional language. It performs
+a simple character, line, and word count on an input file. It then
+takes a dictionary file and counts on the words, from the input file,
+that match words in the dictionary file. 
+
+There's nothing too special about this program except for we had to learn
+to use a functional programming paradigm as well as the idiosyncrasies 
+of scheme in a week. Also we had to use recursion to complete the calculations
+which was a first in my programming career. 
+
+All in all I am really glad we had to this project. Because of it I now
+feel really comfortable implementing recursion and actually find it
+kind of fun and challenging. Not to mention this is my last programming
+assignment.....EVER!!!!!!! Goodbye computer science school!!!!!
+
